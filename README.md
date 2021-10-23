@@ -1,2 +1,2 @@
-# dowhile2021
+# Dowhile2021
 Projects for RocketSeat Next Level Week Heat
